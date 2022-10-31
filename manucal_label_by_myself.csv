@@ -1,0 +1,51 @@
+id	label of real fact	text description	label in clinical prediction	label in real clinical	Clinical predicted fact	label of real fact	sratics
+1	positive	none	negative	negative	positive	positive	0
+2	negative	conflict	positive	negative	negative	negative	1
+3	negative	conflict	positive	positive	positive	negative	0
+4	negative	conflict	negative	positive	negative	negative	1
+5	positive		positive	positive	positive	positive	1
+6	negative	conflict	positive	negative	negative	negative	1
+7	positive	none	positive	positive	positive	positive	1
+8	positive	none	negative	negative	positive	positive	1
+9	positive	none	positive	negative	negative	positive	0
+10	negative	conflict	positive	negative	negative	negative	1
+11	negative	conflict	negative	negative	positive	negative	0
+12	positive	none	negative	negative	positive	positive	1
+13	positive	none	positive	positive	positive	positive	1
+14	negative	conflict	negative	negative	positive	negative	0
+15	positive	none	negative	negative	positive	positive	1
+16	positive	none	positive	positive	positive	positive	1
+17	negative	conflict	negative	positive	negative	negative	1
+18	positive	none	negative	negative	positive	positive	1
+19	negative	conflict	negative	positive	negative	negative	1
+20	negative	conflict	negative	positive	negative	negative	1
+21	negative	conflict	positive	negative	negative	negative	1
+22	negative	conflict	negative	negative	positive	negative	0
+23	positive	none	negative	negative	positive	positive	1
+24	positive	none	negative	negative	positive	positive	1
+25	positive	none	negative	negative	positive	positive	1
+26	negative	conflict	negative	positive	negative	negative	1
+27	positive	none	negative	positive	negative	positive	0
+28	negative	conflict	positive	negative	negative	negative	1
+29	negative	conflict	negative	negative	positive	negative	0
+30	positive	none	negative	negative	positive	positive	1
+31	negative	conflict	negative	positive	negative	negative	1
+32	negative	none	positive	negative	negative	positive	0
+33	negative	conflict	negative	positive	negative	negative	1
+34	positive	none	negative	negative	positive	positive	1
+35	positive	none	negative	negative	positive	positive	1
+36	positive	none	positive	negative	negative	positive	0
+37	negative	none	negative	positive	negative	positive	0
+38	positive	none	positive	positive	positive	positive	1
+39	positive	none	negative	negative	positive	positive	1
+40	positive	none	positive	positive	positive	positive	1
+41	negative	none	positive	negative	negative	positive	0
+42	positive	none	negative	negative	positive	positive	1
+43	positive	none	negative	negative	positive	positive	1
+44	negative		negative	positive	negative	negative	1
+45	positive	none	negative	negative	positive	positive	1
+46	negative	conflict	negative	positive	negative	negative	1
+47	negative		negative	positive	negative	negative	1
+48	positive	none	negative	negative	positive	positive	1
+49	positive	none	negative	negative	positive	positive	1
+50	positive	none	negative	negative	positive	positive	1

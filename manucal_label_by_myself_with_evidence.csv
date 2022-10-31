@@ -1,0 +1,551 @@
+id	label of real fact	text description	evidence in source	evidence in tgt	label in clinical prediction	label in real clinical	Clinical predicted fact(label in clinical prediction &label in real clinical )	label of real fact	result
+1	positive	none	none	none	negative	negative	positive	positive	1
+2	negative	conflict	ERAS benefits may translate even on the baby .	ERAS benefits may translate even on the outbreak of pre-existing micrometastases and the initiation of new metastases .	positive	negative	negative	negative	1
+3	negative	conflict	The middle trapezius is primarily a medial stabilizer of the scapula . 	The middle trapezius is primarily a medial stabilizer of the humeral head 	positive	positive	positive	negative	0
+4	negative	conflict	 17 patients -LRB- 58.6 % -RRB- required growth factor	26 patients -LRB- 58.6 % -RRB- required growth factor 	negative	positive	negative	negative	1
+5	positive				positive	positive	positive	positive	1
+6	negative	conflict	5-year LPFS , MMFS , PFS and OS were 87.0 % , 80.9 % , 69.8 % and 87.4 % 	 The 5-year overall survival , disease-free survival , and local control rate was 74 % , 50 % , and 86 % 	positive	negative	negative	negative	1
+7	positive	none	none	none	positive	positive	positive	positive	1
+8	positive	none			negative	negative	positive	positive	1
+9	positive	none			positive	negative	negative	positive	0
+10	negative	conflict	At 6 months , 17 % of the PAL group versus 30 % of the SVL group needed a prescription change -LRB- P = 0.0007 -RRB- , and , at 1 year , 43 % of the PAL group versus 59 % of the SVL group required a prescription change -LRB- P = 0.002 -RRB- . 	At 6 months , the SVL group -LRB- P < 0.001 -RRB- , and the axial length of eyes was significantly higher in the SVL group	positive	negative	negative	negative	1
+11	negative	conflict	There was a nonsignificant trend toward a reduction in right atrial pressure -LRB- 9.2 + / - 3.9 vs. 11.2 + / - 4.1 , p = .08 -RRB- .	There was a nonsignificant trend toward patients with heart failure who were already receiving inotropic and diuretic therapy . Nesiritide was administered in an open-label study 	negative	negative	positive	negative	0
+12	positive	none	none	none	negative	negative	positive	positive	1
+13	positive	none	none	none	positive	positive	positive	positive	1
+14	negative	conflict	N = 107	N = 115	negative	negative	positive	negative	0
+15	positive	none	none	none	negative	negative	positive	positive	1
+16	positive	none	none	none	positive	positive	positive	positive	1
+17	negative	conflict	Vaginal douching and bacterial vaginosis were not associated with spontaneous preterm birth overall	Vaginal douching was not associated with a significant reduction in the prevalence of BV , and a mean reduction in women with the risk of HIV inflammatory disease compared with the control group 	negative	positive	negative	negative	1
+18	positive	none	none	none	negative	negative	positive	positive	1
+19	negative	conflict	 long-term paired associative stimulation induced persistent and clinically relevant strengthening of neural connections and restored voluntary movement in previously paralyzed muscles .	The tetraplegic patient regained in the human corticospinal tract is a result in human nerve stimulation	negative	positive	negative	negative	1
+20	negative	conflict	placebo -LSB- hazard ratio = 1.8	; 6 % diarrhea -RRB- and hypertension -LRB- hazard ratio = 1.8 -LRB- 95 % CI 0.6-5.5 -RRB- 	negative	positive	negative	negative	1
+21	negative	conflict	for hemorrhage after vaginal delivery was increased -LRB- OR = 1.29	but not statistically significant effect of the pregnancy of pregnancy -LRB- adjusted odds ratio = 1.29 	positive	negative	negative	negative	1
+22	negative	conflict	The sensitivity , specificity , positive predictive value -LRB- PPV -RRB- , and negative predictive value of ROSE for core biopsies were 65 , 100 , 100 , and 39 % , respectively . 	The sensitivity , specificity , and accuracy in combined cytologic and histologic results were 85 % , 100 % , and 86 % on passes 1 , 2 , and 3 , respectively -RRB-	negative	negative	positive	negative	0
+23	positive	none	none	none	negative	negative	positive	positive	1
+24	positive	none	none	none	negative	negative	positive	positive	1
+25	positive	none	none	none	negative	negative	positive	positive	1
+26	negative	conflict	There were 10 cerebral infarctions and 1 intracerebral hematoma in the standard-care group	There were 10 to these patients had recurrent stroke 2 or more years after the initial event 	negative	positive	negative	negative	1
+27	positive	none			negative	positive	negative	positive	0
+28	negative	conflict	Median progression-free survival was 6.4 months 	Median time to progression was 5.4 months	positive	negative	negative	negative	1
+29	negative	conflict	however , it is not possible to draw conclusions about response rates , because of the very small sample size .  	 however , it is not possible to draw conclusions about response rates , because of the very small daily dose size response after 3 , 6 , 9 , and 12 months . 	negative	negative	positive	negative	0
+30	positive	none			negative	negative	positive	positive	1
+31	negative	conflict	, four people had a lip biopsy score of greater than or equal to 2 +	Another four had an LSG biopsy score of 1 +	negative	positive	negative	negative	1
+32	negative	none			positive	negative	negative	positive	0
+33	negative	conflict	79 % were pump-treated 	 79 % , with diabetes for 9.4 ± 4.9 years ,	negative	positive	negative	negative	1
+34	positive	none			negative	negative	positive	positive	1
+35	positive	none			negative	negative	positive	positive	1
+36	positive	none			positive	negative	negative	positive	0
+37	negative	none			negative	positive	negative	positive	0
+38	positive	none			positive	positive	positive	positive	1
+39	positive	none			negative	negative	positive	positive	1
+40	positive	none			positive	positive	positive	positive	1
+41	negative	none			positive	negative	negative	positive	0
+42	positive	none			negative	negative	positive	positive	1
+43	positive	none			negative	negative	positive	positive	1
+44	negative		 Little difference was found between the 15/12 and 15/5 P-ointment groups	The PR of the PR was significantly higher in the patients treated with 15 % of patients with Mali -LRB- P < 0.001 -RRB- , whereas a significant reduction in the PR group -LRB- P = 0.01 -RRB- .	negative	positive	negative	negative	1
+45	positive	none			negative	negative	positive	positive	1
+46	negative	conflict	1 factor , 17 % and 22 %	1 % and 15 %	negative	positive	negative	negative	1
+47	negative		 a less costly and less nursing-intensive therapy than 3 days of IV insulin postoperatively , results in a reduction of the increased surgical morbidity and mortality in diabetic patients after CT surgery .	 with a overall costly and less nursing-intensive therapy than 3 days of IV insulin postoperatively	negative	positive	negative	negative	1
+48	positive	none			negative	negative	positive	positive	1
+49	positive	none			negative	negative	positive	positive	1
+50	positive	none			negative	negative	positive	positive	1
+					positive	positive	positive		
+					positive	negative	negative		
+					positive	negative	negative		
+					negative	positive	negative		
+					negative	negative	positive		
+					positive	negative	negative		
+					positive	negative	negative		
+					negative	negative	positive		
+					negative	negative	positive		
+					negative	negative	positive		
+					positive	positive	positive		
+					negative	negative	positive		
+					negative	positive	negative		
+					negative	positive	negative		
+					negative	positive	negative		
+					positive	negative	negative		
+					negative	positive	negative		
+					positive	negative	negative		
+					positive	negative	negative		
+					negative	positive	negative		
+					negative	positive	negative		
+					negative	positive	negative		
+					negative	negative	positive		
+					positive	negative	negative		
+					negative	positive	negative		
+					negative	negative	positive		
+					negative	positive	negative		
+					positive	negative	negative		
+					negative	positive	negative		
+					negative	positive	negative		
+					negative	positive	negative		
+					positive	positive	positive		
+					negative	positive	negative		
+					positive	negative	negative		
+					negative	negative	positive		
+					positive	negative	negative		
+					negative	positive	negative		
+					positive	negative	negative		
+					positive	positive	positive		
+					negative	positive	negative		
+					positive	positive	positive		
+					positive	negative	negative		
+					negative	negative	positive		
+					negative	positive	negative		
+					positive	negative	negative		
+					positive	positive	positive		
+					negative	negative	positive		
+					positive	negative	negative		
+					positive	negative	negative		
+					negative	negative	positive		
+					negative	positive	negative		
+					positive	negative	negative		
+					negative	negative	positive		
+					negative	positive	negative		
+					negative	negative	positive		
+					negative	negative	positive		
+					positive	positive	positive		
+					positive	negative	negative		
+					negative	positive	negative		
+					positive	negative	negative		
+					positive	negative	negative		
+					positive	positive	positive		
+					positive	negative	negative		
+					positive	positive	positive		
+					negative	positive	negative		
+					positive	negative	negative		
+					positive	positive	positive		
+					positive	negative	negative		
+					negative	negative	positive		
+					negative	positive	negative		
+					negative	positive	negative		
+					positive	positive	positive		
+					negative	negative	positive		
+					negative	negative	positive		
+					negative	positive	negative		
+					positive	negative	negative		
+					negative	positive	negative		
+					positive	positive	positive		
+					positive	negative	negative		
+					positive	negative	negative		
+					negative	positive	negative		
+					positive	positive	positive		
+					positive	negative	negative		
+						negative	positive		
+						negative	positive		
+						negative	positive		
+						positive	positive		
+						negative	positive		
+						positive	negative		
+						positive	negative		
+						positive	negative		
+						positive	negative		
+						negative	negative		
+						positive	positive		
+						positive	negative		
+						positive	positive		
+						negative	negative		
+						positive	positive		
+						negative	negative		
+						positive	negative		
+						negative	positive		
+							positive		
+							negative		
+							positive		
+							positive		
+							negative		
+							positive		
+							positive		
+							negative		
+							positive		
+							negative		
+							positive		
+							positive		
+							positive		
+							positive		
+							positive		
+							positive		
+							positive		
+							positive		
+							positive		
+							negative		
+							positive		
+							positive		
+							negative		
+							negative		
+							positive		
+							negative		
+							positive		
+							positive		
+							positive		
+							positive		
+							negative		
+							positive		
+							positive		
+							positive		
+							negative		
+							positive		
+							negative		
+							negative		
+							negative		
+							negative		
+							positive		
+							negative		
+							negative		
+							negative		
+							negative		
+							negative		
+							negative		
+							positive		
+							negative		
+							negative		
+							positive		
+							positive		
+							negative		
+							negative		
+							positive		
+							positive		
+							positive		
+							negative		
+							positive		
+							positive		
+							positive		
+							negative		
+							positive		
+							positive		
+							positive		
+							negative		
+							negative		
+							negative		
+							negative		
+							positive		
+							positive		
+							negative		
+							positive		
+							positive		
+							positive		
+							negative		
+							negative		
+							negative		
+							negative		
+							negative		
+							positive		
+							negative		
+							positive		
+							positive		
+							negative		
+							positive		
+							negative		
+							positive		
+							positive		
+							positive		
+							positive		
+							negative		
+							negative		
+							negative		
+							positive		
+							positive		
+							positive		
+							positive		
+							negative		
+							positive		
+							negative		
+							positive		
+							negative		
+							negative		
+							positive		
+							negative		
+							negative		
+							positive		
+							positive		
+							negative		
+							positive		
+							negative		
+							negative		
+							positive		
+							negative		
+							negative		
+							positive		
+							negative		
+							negative		
+							negative		
+							positive		
+							negative		
+							positive		
+							negative		
+							negative		
+							negative		
+							negative		
+							negative		
+							positive		
+							positive		
+							negative		
+							negative		
+							positive		
+							positive		
+							negative		
+							negative		
+							positive		
+							negative		
+							negative		
+							negative		
+							negative		
+							positive		
+							positive		
+							positive		
+							positive		
+							negative		
+							positive		
+							positive		
+							negative		
+							negative		
+							positive		
+							negative		
+							negative		
+							negative		
+							positive		
+							negative		
+							positive		
+							negative		
+							positive		
+							negative		
+							positive		
+							negative		
+							positive		
+							positive		
+							negative		
+							positive		
+							positive		
+							positive		
+							negative		
+							negative		
+							positive		
+							positive		
+							positive		
+							negative		
+							positive		
+							positive		
+							negative		
+							positive		
+							negative		
+							positive		
+							negative		
+							positive		
+							positive		
+							negative		
+							positive		
+							negative		
+							negative		
+							negative		
+							negative		
+							negative		
+							negative		
+							negative		
+							negative		
+							negative		
+							negative		
+							negative		
+							positive		
+							negative		
+							positive		
+							positive		
+							negative		
+							negative		
+							positive		
+							negative		
+							positive		
+							positive		
+							positive		
+							negative		
+							negative		
+							negative		
+							negative		
+							positive		
+							positive		
+							negative		
+							positive		
+							negative		
+							positive		
+							positive		
+							positive		
+							positive		
+							positive		
+							negative		
+							positive		
+							positive		
+							negative		
+							positive		
+							positive		
+							positive		
+							positive		
+							negative		
+							negative		
+							positive		
+							negative		
+							negative		
+							positive		
+							negative		
+							negative		
+							positive		
+							positive		
+							positive		
+							positive		
+							negative		
+							positive		
+							negative		
+							negative		
+							negative		
+							positive		
+							positive		
+							positive		
+							positive		
+							negative		
+							negative		
+							negative		
+							negative		
+							positive		
+							positive		
+							positive		
+							negative		
+							positive		
+							positive		
+							positive		
+							positive		
+							negative		
+							negative		
+							positive		
+							negative		
+							positive		
+							negative		
+							negative		
+							negative		
+							negative		
+							positive		
+							positive		
+							negative		
+							positive		
+							positive		
+							negative		
+							negative		
+							negative		
+							negative		
+							negative		
+							positive		
+							positive		
+							positive		
+							positive		
+							positive		
+							negative		
+							negative		
+							positive		
+							positive		
+							positive		
+							negative		
+							negative		
+							negative		
+							negative		
+							negative		
+							negative		
+							positive		
+							positive		
+							positive		
+							negative		
+							positive		
+							positive		
+							negative		
+							positive		
+							negative		
+							positive		
+							negative		
+							positive		
+							positive		
+							positive		
+							negative		
+							negative		
+							negative		
+							positive		
+							negative		
+							negative		
+							positive		
+							negative		
+							positive		
+							negative		
+							positive		
+							negative		
+							negative		
+							positive		
+							positive		
+							negative		
+							positive		
+							negative		
+							positive		
+							negative		
+							negative		
+							positive		
+							positive		
+							negative		
+							negative		
+							negative		
+							positive		
+							positive		
+							positive		
+							positive		
+							positive		
+							positive		
+							positive		
+							negative		
+							positive		
+							negative		
+							positive		
+							positive		
+							positive		
+							positive		
+							positive		
+							negative		
+							positive		
+							negative		
+							negative		
+							negative		
+							negative		
+							positive		
+							negative		
+							negative		
+							negative		
+							negative		
+							positive		
+							negative		
+							positive		
+							positive		
+							negative		
+							negative		
+							negative		
+							negative		
+							negative		
+							negative		
+							positive		
+							positive		
+							positive		
+							positive		
+							negative		
+							positive		
+							positive		
+							negative		
+							positive		
+							negative		
+							negative		
+							positive		
+							positive		
+							negative		
+							positive		
+							negative		
+							negative		
+							positive		
+							positive		
+							positive		
+							positive		
+							negative		
+							positive		
+							positive		
+							negative		
+							negative		

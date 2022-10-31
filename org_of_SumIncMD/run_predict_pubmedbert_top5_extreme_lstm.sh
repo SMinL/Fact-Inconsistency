@@ -1,0 +1,12 @@
+CUDA_VISIBLE_DEVICES=9 python run_glue.py \
+  --model_name_or_path evidence_pubmedbert_top5_extreme/checkpoint-800\
+  --train_file /home/lsm/code/2022/bibm/download_ourselves/new_analyze_files/parts/train_test_val_for_clinical_predict_with_summary_for_nct/extreme_summarization/train.top5.json\
+  --validation_file /home/lsm/code/2022/bibm/download_ourselves/new_analyze_files/parts/train_test_val_for_clinical_predict_with_summary_for_nct/extreme_summarization/valid.top5.json\
+  --test_file /home/lsm/code/2022/bibm/download_ourselves/new_analyze_files/parts/train_test_val_for_clinical_predict_with_summary_for_nct/extreme_summarization/test_acc/test.lstm.summary.for.classification.extreme.json\
+  --do_predict \
+  --max_seq_length 512\
+  --save_steps 400 \
+  --per_device_train_batch_size 8\
+  --learning_rate 2e-5 \
+  --num_train_epochs 3 \
+  --output_dir evidence_pubmedbert_top5_extreme/predict_lstm
